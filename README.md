@@ -14,8 +14,8 @@
 
 # Contato
 
-* **E-mail:** ArthurHernandes2014@hotmail.com
-* **Telefone:** (17) 99271-2111
+* | **E-mail:** ArthurHernandes2014@hotmail.com |
+* | **Telefone:** (17) 99271-2111 |
 
 
 ---

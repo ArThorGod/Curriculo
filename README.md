@@ -1,6 +1,6 @@
 # Arthur Peres Hernandes (currículo)
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGm_JtHTDPxWg/profile-displayphoto-shrink_200_200/0/1660434597317?e=1672272000&v=beta&t=N0LvwPdChk5NZFUh1TU98Rc3M-s5diYDa5rjcTgqu_U)"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGm_JtHTDPxWg/profile-displayphoto-shrink_200_200/0/1660434597317?e=1672272000&v=beta&t=N0LvwPdChk5NZFUh1TU98Rc3M-s5diYDa5rjcTgqu_U/>
 
 Local: Monte Azul Paulista - São Paulo | Idade: 21 anos
 
@@ -28,8 +28,12 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 * Graduação em Sistemas de Informações, UNIFEB. (Incompleto)
 
 # Experiência Profissional
-* Estagiário de TI - Prefeitura de Monte Azul Paulista
- ** Teste
+
+* Estagiário de TI - Prefeitura de Monte Azul Paulista | (2019 - 2021)
+    - Esse estágio contribuiu para o meu desenvolvimento tanto como pessoal e profissional, aprendendo técnicas diferentes de diversas áreas, dentre elas a Manutenção e Suporte para Informática e auxiliar administrativo.
+
+* Auxiliar de TI - Safra Rica | (2022 - Atualmente)
+    - Onde trabalho atualmente, venho desenvolvendo diversas habilidades e aperfeiçoando meu conhecimento. Realizei implementações de relatórios personalizado via SQL, criação de um RPA por reconhecimento de imagem por Python, manutenção em ambientes Linux, utilização de Data Warehouse, gerenciamento de ERP e CRM, helpdesk e conhecimento sobre o Agronegócio.
 
 # Cursos
 * Modelagem de Dados.

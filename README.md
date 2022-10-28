@@ -65,6 +65,8 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 * Introduction to SQL (Data Camp).
 * Data Science Methodologies (IBM).
 * Data Science Foundations (IBM).
+
+
 ---
 
 Qualquer sugestão sobre como melhorar meu currículo, ficarei imensamente disposto à modificações e pelo apoio grato. Muito

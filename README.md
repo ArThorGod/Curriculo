@@ -1,4 +1,4 @@
-# Arthur Peres Hernandes (currículo)
+# Arthur Peres Hernandes - Currículo
 
 
 <img src="https://i.imgur.com/rRGiaFO.jpg" style="width:200px;"/>
@@ -33,7 +33,6 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 
 
 
-
 ---
 
 
@@ -52,6 +51,11 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 | Estatística                     | Básico        |
 | Business Intelligence           | Básico        |
 | Estrutura de Banco de Dados     | Intermediário |
+
+
+
+---
+
 
 
 # Idiomas 

@@ -8,7 +8,7 @@ Local: Monte Azul Paulista - São Paulo | Idade: 21 anos
 
 Sou estudante do curso de Sistemas de Informações pela UNIFEB (Barretos) e atualmente no 8º Termo. Minha trajetória em TI veio desde cedo, e tive contato com diversas áreas da mesma, sendo elas, desenvolvimento, redes e gerência. Porém, a qual eu me senti mais próximo foi a área de Dados, então venho sempre tentando me aproximar cada vez mais, me aperfeiçoando e entrando mais a fundo no assunto. Deste modo, comecei à procurar oportunidades de emprego para adquirir experiências como Analista de Business Intelligence, Analista de Dados ou qualquer similiar.
 
-Atualmente trabalho na emrpresa[Safra Rica](https://www.safrarica.com.br "Link").
+Atualmente trabalho na emrpresa [Safra Rica](https://www.safrarica.com.br "Link").
 
 Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal"). 
 

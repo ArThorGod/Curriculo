@@ -2,6 +2,9 @@
 
 
 <img src="https://i.imgur.com/rRGiaFO.jpg" style="width:200px;"/>
+<div align='leftttt'>
+    <a href="https://www.linkedin.com/in/arthur-hernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width:200px;"></a>
+</div>
 
 
 
@@ -12,9 +15,7 @@
 # Contato
 
 * **E-mail:** ArthurHernandes2014@hotmail.com
-* **Linkedln:** https://www.linkedin.com/in/arthur-hernandes/
 * **Telefone:** (17) 99271-2111
-
 
 
 ---
@@ -27,7 +28,7 @@
 
 Sou estudante do curso de Sistemas de Informações pela UNIFEB (Barretos) e atualmente no 8º Termo. Minha trajetória em TI veio desde cedo, e tive contato com diversas áreas da mesma, sendo elas, desenvolvimento, redes e gerência. Porém, a qual eu me senti mais próximo foi a área de Dados, então venho sempre tentando me aproximar cada vez mais, me aperfeiçoando e entrando mais a fundo no assunto. Deste modo, comecei à procurar oportunidades de emprego para adquirir experiências como Analista de Business Intelligence, Analista de Dados ou qualquer similiar.
 
-Atualmente trabalho na emrpresa [Safra Rica](https://www.safrarica.com.br "Link").
+Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link").
 
 Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal"). 
 

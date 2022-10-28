@@ -20,6 +20,13 @@ Atualmente trabalho na emrpresa [Safra Rica](https://www.safrarica.com.br "Link"
 
 Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal"). 
 
+
+
+
+---
+
+
+
 # Conhecimentos
 
 
@@ -36,22 +43,42 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 | Estrutura de Banco de Dados     | Intermediário |
 
 
-# Conhecimentos
+# Idiomas 
+
 * Português - Nativo
 * Inglês - Técnico intermediário
 
 
+
+---
+
+
+
 # Formações
+
 * Ensino Técnico em Manutenção e Suporte em Informática. 2017 - 2018 (ETEC)
 * Graduação em Sistemas de Informações, UNIFEB. 2019 - 2022 (Em andamento)
 
+
+---
+
+
+
 # Experiência Profissional
 
-* Estagiário de TI - Prefeitura de Monte Azul Paulista | (2019 - 2021)
-    - Esse estágio contribuiu para o meu desenvolvimento tanto como pessoal e profissional, aprendendo técnicas diferentes de diversas áreas, dentre elas a Manutenção e Suporte para Informática e auxiliar administrativo.
+## Estagiário de TI 
+### Prefeitura de Monte Azul Paulista | (2019 - 2021)
+* Esse estágio contribuiu para o meu desenvolvimento tanto como pessoal e profissional, aprendendo técnicas diferentes de diversas áreas, dentre elas a Manutenção e Suporte para Informática e auxiliar administrativo.
 
-* Auxiliar de TI - Safra Rica | (2022 - Atualmente)
-    - Onde trabalho atualmente, venho desenvolvendo diversas habilidades e aperfeiçoando meu conhecimento. Realizei implementações de relatórios personalizado via SQL, criação de um RPA por reconhecimento de imagem por Python, manutenção em ambientes Linux, utilização de Data Warehouse, gerenciamento de ERP e CRM, helpdesk e conhecimento sobre o Agronegócio.
+## Auxiliar de TI  
+### Safra Rica | (2022 - Atualmente)
+* Onde trabalho atualmente, venho desenvolvendo diversas habilidades e aperfeiçoando meu conhecimento. Realizei implementações de relatórios personalizado via SQL, criação de um RPA por reconhecimento de imagem por Python, manutenção em ambientes Linux, utilização de Data Warehouse, gerenciamento de ERP e CRM, helpdesk e conhecimento sobre o Agronegócio.
+
+
+
+---
+
+
 
 # Cursos
 * Modelagem de Dados (Fundação Bradesco).
@@ -67,7 +94,10 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 * Data Science Foundations (IBM).
 
 
+
 ---
+
+
 
 Qualquer sugestão sobre como melhorar meu currículo, ficarei imensamente disposto à modificações e pelo apoio grato. Muito
 

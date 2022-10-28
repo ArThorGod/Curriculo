@@ -27,6 +27,9 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 * Ensino Técnico em Manutenção e Suporte em Informática. (ETEC)
 * Graduação em Sistemas de Informações, UNIFEB. (Incompleto)
 
+# Experiência Profissional
+* Estagiário de TI - Prefeitura de Monte Azul Paulista
+
 # Cursos
 * Modelagem de Dados.
 * Excel Intermediário.

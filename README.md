@@ -3,11 +3,22 @@
 
 <img src="https://i.imgur.com/rRGiaFO.jpg" style="width:200px;"/>
 
+
+
+---
+
+
+
 # Contato
 
 * **E-mail:** ArthurHernandes2014@hotmail.com
 * **Linkedln:** https://www.linkedin.com/in/arthur-hernandes/
 * **Telefone:** (17) 99271-2111
+
+
+
+---
+
 
 
 # Sobre

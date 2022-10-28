@@ -1,6 +1,6 @@
 # Arthur Peres Hernandes (currículo)
 
-<img src="[http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png"](https://media-exp1.licdn.com/dms/image/C4D03AQGm_JtHTDPxWg/profile-displayphoto-shrink_200_200/0/1660434597317?e=1672272000&v=beta&t=N0LvwPdChk5NZFUh1TU98Rc3M-s5diYDa5rjcTgqu_U)/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGm_JtHTDPxWg/profile-displayphoto-shrink_200_200/0/1660434597317?e=1672272000&v=beta&t=N0LvwPdChk5NZFUh1TU98Rc3M-s5diYDa5rjcTgqu_U)"/>
 
 Local: Monte Azul Paulista - São Paulo | Idade: 21 anos
 

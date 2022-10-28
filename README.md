@@ -14,8 +14,9 @@
 
 # Contato
 
-* | **E-mail:** ArthurHernandes2014@hotmail.com |
-* | **Telefone:** (17) 99271-2111 |
+* **E-mail:** ArthurHernandes2014@hotmail.com 
+* **Telefone:** (17) 99271-2111 
+
 
 
 ---
@@ -29,8 +30,6 @@
 Sou estudante do curso de Sistemas de Informações pela UNIFEB (Barretos) e atualmente no 8º Termo. Minha trajetória em TI veio desde cedo, e tive contato com diversas áreas da mesma, sendo elas, desenvolvimento, redes e gerência. Porém, a qual eu me senti mais próximo foi a área de Dados, então venho sempre tentando me aproximar cada vez mais, me aperfeiçoando e entrando mais a fundo no assunto. Deste modo, comecei à procurar oportunidades de emprego para adquirir experiências como Analista de Business Intelligence, Analista de Dados ou qualquer similiar.
 
 Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link").
-
-Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal"). 
 
 
 
@@ -115,7 +114,7 @@ Github: [https://github.com/ArThorGod](https://github.com/ArThorGod "pessoal").
 
 
 
-Qualquer sugestão sobre como melhorar meu currículo, ficarei imensamente disposto à modificações e pelo apoio grato. Muito
+Qualquer sugestão sobre como melhorar meu currículo, ficarei imensamente disposto à modificações e pelo apoio grato. Muito obrigado!
 
 
 

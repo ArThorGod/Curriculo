@@ -81,13 +81,13 @@ Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link")
 
 # Experiência Profissional
 
-## Estagiário de TI 
-### Prefeitura de Monte Azul Paulista | (2019 - 2021)
-* Esse estágio contribuiu para o meu desenvolvimento tanto como pessoal e profissional, aprendendo técnicas diferentes de diversas áreas, dentre elas a Manutenção e Suporte para Informática e auxiliar administrativo.
-
 ## Auxiliar de TI  
 ### Safra Rica | (2022 - Atualmente)
 * Onde trabalho atualmente, venho desenvolvendo diversas habilidades e aperfeiçoando meu conhecimento. Realizei implementações de relatórios personalizado via SQL, criação de um RPA por reconhecimento de imagem por Python, manutenção em ambientes Linux, utilização de Data Warehouse, gerenciamento de ERP e CRM, helpdesk e conhecimento sobre o Agronegócio.
+
+## Estagiário de TI 
+### Prefeitura de Monte Azul Paulista | (2019 - 2021)
+* Esse estágio contribuiu para o meu desenvolvimento tanto como pessoal e profissional, aprendendo técnicas diferentes de diversas áreas, dentre elas a Manutenção e Suporte para Informática e auxiliar administrativo.
 
 
 

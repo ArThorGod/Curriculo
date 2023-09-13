@@ -81,6 +81,10 @@ Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link")
 
 # Experiência Profissional
 
+## Auxiliar de TI
+### Nutrien Soluções Agrícolas | (2023 - Atualmente)
+* Extrações de Relatórios através de SQL.
+
 ## Auxiliar de TI  
 ### Safra Rica | (2022 - Atualmente)
 * Onde trabalho atualmente, venho desenvolvendo diversas habilidades e aperfeiçoando meu conhecimento. Realizei implementações de relatórios personalizado via SQL, criação de um RPA por reconhecimento de imagem por Python, manutenção em ambientes Linux, utilização de Data Warehouse, gerenciamento de ERP e CRM, helpdesk e conhecimento sobre o Agronegócio.

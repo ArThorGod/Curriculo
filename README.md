@@ -29,7 +29,7 @@
 
 Sou estudante do curso de Sistemas de Informações pela UNIFEB (Barretos) e atualmente no 8º Termo. Minha trajetória em TI veio desde cedo, e tive contato com diversas áreas da mesma, sendo elas, desenvolvimento, redes e gerência. Porém, a qual eu me senti mais próximo foi a área de Dados, então venho sempre tentando me aproximar cada vez mais, me aperfeiçoando e entrando mais a fundo no assunto. Deste modo, comecei à procurar oportunidades de emprego para adquirir experiências como Analista de Business Intelligence, Analista de Dados ou qualquer similiar.
 
-Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link").
+Atualmente trabalho na empresa [Nutrien Soluções Agrícolas](https://nutrien.com.br "Link").
 
 
 
@@ -71,8 +71,9 @@ Atualmente trabalho na empresa [Safra Rica](https://www.safrarica.com.br "Link")
 
 # Formações
 
+* Ensino Médio Completo.
 * Ensino Técnico em Manutenção e Suporte em Informática. 2017 - 2018 (ETEC)
-* Graduação em Sistemas de Informações, UNIFEB. 2019 - 2022 (Em andamento)
+* Graduação em Sistemas de Informações, UNIFEB. 2019 - 2022 (Completo)
 
 
 ---
